@@ -1,4 +1,5 @@
 1. https://bootswatch.com/
+<<<<<<< HEAD
 2. https://getbootstrap.com/
 3. https://flask.palletsprojects.com/en/2.0.x/
 4. https://docs.python.org/3/
@@ -8,3 +9,6 @@
 commands
 1. To import flask
     pip install flask
+=======
+2. https://getbootstrap.com/
+>>>>>>> origin/master
