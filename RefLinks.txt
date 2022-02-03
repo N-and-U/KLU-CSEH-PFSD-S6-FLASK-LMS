@@ -1,9 +1,9 @@
-1. https://bootswatch.com/
-2. https://getbootstrap.com/
-2. https://getbootstrap.com/
-3. https://flask.palletsprojects.com/en/2.0.x/
-4. https://docs.python.org/3/
-5. https://pypi.org/
+1. BootStrap: https://bootswatch.com/
+2. BootSwatch: https://getbootstrap.com/
+2. BootStraps: https://getbootstrap.com/
+3. Flask: https://flask.palletsprojects.com/en/2.0.x/
+4. Python:  https://docs.python.org/3/
+5. PyPi: https://pypi.org/
 
 
 commands
